@@ -1,7 +1,7 @@
 # Big-Data-Charts
 Optimises Excel Charts for Big Data (VBA Excel Add-In)
 
-![Alt text](/screenshot01.jpg?raw=true "Big Data Charts")
+![Alt text](/screenshot02.jpg?raw=true "Big Data Charts")
 
 Charts for Big Data is a chart optimiser for big databases and is:
   - Fast: charts are light, fast, and optimised for Big Data
