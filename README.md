@@ -21,6 +21,6 @@ You should see a new "Charts for Big Data" menu in Excel now!
 3) Check the newly created blocks of values [Chart #, DateMin#, DateMax#] at the top of the first two columns of the active sheet. Change the values of DateMin and DateMax and click "Refresh Range" to fine-tune the ranges of the charts. 
 4) "Print" the selected charts to the default printer.
 
-# Setup and Optimise Charts:
+# Setup and Optimise Charts
 Optimises the selected charts to dynamic charts for fast performance thanks to named ranges and blocks of range values. When possible, the data series of the charts are recreated and converted to named ranges (CBD_*) adjusted to the minimum ranges needed by the charts. As a result, the charts are light, memory-efficient and fast to work with. 
 The Blocks of Range Values [Chart #, DateMin# and DateMax#] are automatically created at the top of the first two columns of the active sheet. Each chart is linked to its block of range values and can be easily adjusted.
