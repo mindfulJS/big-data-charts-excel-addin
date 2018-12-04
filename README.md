@@ -3,11 +3,11 @@ Optimises Excel Charts for Big Data.
 
 ![Alt text](/screenshot02.jpg?raw=true "Big Data Charts")
 
-# Charts for Big Data is a chart optimiser for big databases and is:
-#  - Fast: charts are light, fast, and optimised for Big Data
-#  - Memory-efficient: the file size of the spreadsheet is reduced by up to 80%!
-#  - Powerful: Optimised charts can handle millions of rows of data without any slow down
-#  - Compatible: with Excel 2007, 2010, 2013
+Charts for Big Data is a chart optimiser for big databases and is:
+  - Fast: charts are light, fast, and optimised for Big Data
+  - Memory-efficient: the file size of the spreadsheet is reduced by up to 80%!
+  - Powerful: Optimised charts can handle millions of rows of data without any slow down
+  - Compatible: with Excel 2007, 2010, 2013
 
 # Installation
 In Excel, go to File > Options > Add-Ins.
